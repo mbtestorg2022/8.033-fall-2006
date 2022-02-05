@@ -4,31 +4,889 @@ title: Readings
 uid: 06242663-fd1b-2d8b-57b7-1e47ee57e153
 ---
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | {{< h 3 >}}Course Overview{{< /h >}}   {{< br >}}{{< br >}} *   Overview of Course Contents{{< br >}}*   Practical Issues and Advice{{< br >}}*   Related Subjects; Brief History of Physics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 1 and beginning of Chapter 2. {{< br >}}{{< br >}} French: Chapters 1 and 2. {{< br >}}{{< br >}} Course Study Guide Handout ([PDF]({{< baseurl >}}/resources/guide)) {{< br >}}{{< br >}}  |
-| 2 | {{< h 3 >}}Symmetry and Invariance{{< /h >}}   {{< br >}}{{< br >}} *   Background and History{{< br >}}*   Galilean Transformation, Inertial Reference Frames{{< br >}}*   Classical Wave Equations; Transformation to Other Frames{{< br >}}*   Michelson-Morley Experiment; Aether {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 1 and beginning of Chapter 2. {{< br >}}{{< br >}} French: Chapters 1 and 2. {{< br >}}{{< br >}} Symmetry Handout ([PDF]({{< baseurl >}}/resources/symmetry)) {{< br >}}{{< br >}}  |
-| 3 | {{< h 3 >}}Symmetry and Invariance (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Postulates of Special Relativity{{< br >}}*   First Discussion of Minkowski Diagrams, World Lines {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 1 and beginning of Chapter 2. {{< br >}}{{< br >}} French: Chapters 1 and 2. {{< br >}}{{< br >}} Symmetry Handout ([PDF]({{< baseurl >}}/resources/symmetry)) {{< br >}}{{< br >}}  |
-| 4 | {{< h 3 >}}Relativistic Kinematics{{< /h >}}   {{< br >}}{{< br >}} *   Derivation of Lorentz-Einstein Transformations{{< br >}}    {{< br >}}    *   Matrix Representation{{< br >}}    {{< br >}}*   Introduction of Four-Vectors {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 2. {{< br >}}{{< br >}} French: Chapters 3 and 4. {{< br >}}{{< br >}} Matrix Primer Handout ([PDF]({{< baseurl >}}/resources/matrices)) {{< br >}}{{< br >}} Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics)) {{< br >}}{{< br >}}  |
-| 5 | {{< h 3 >}}Relativistic Kinematics (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Time Dilation and Length Contraction{{< br >}}    {{< br >}}    *   Decay of Atmospheric Muons{{< br >}}    *   Pole Vaulter Problem{{< br >}}    {{< br >}}*   Alternative Looks at Time Dilation and Length Contraction{{< br >}}*   Spacetime Intervals{{< br >}}*   First Discussion of Accelerated Clocks {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 2. {{< br >}}{{< br >}} French: Chapters 3 and 4. {{< br >}}{{< br >}} Matrix Primer handout ([PDF]({{< baseurl >}}/resources/matrices)) {{< br >}}{{< br >}} Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics)) {{< br >}}{{< br >}}  |
-| 6 | {{< h 3 >}}Relativistic Kinematics (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Addition of Velocities{{< br >}}*   Angle Transformation for Trajectories{{< br >}}    *   Doppler Effect{{< br >}}        {{< br >}}        *   Classical Doppler Effect for Sound{{< br >}}        *   Relativistic Doppler Effect{{< br >}}        *   Astrophysical Examples; Relativistic and Superluminal Jets{{< br >}}         {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} French: Chapter 5. {{< br >}}{{< br >}} Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics)) {{< br >}}{{< br >}}  |
-| 7 | {{< h 3 >}}Relativistic Kinematics (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Stellar Aberration{{< br >}}*   Doppler Effect and Angle Transformation via Transformation of Phase of Plane Waves{{< br >}}*   Fully Calibrated Minkowski Diagrams{{< br >}}    {{< br >}}    *   Pole-Vaulter Problem{{< br >}}    *   Twin Paradox with Constant Velocity Plus a Reversal{{< br >}}    *   Twin Paradox with Arbitrary Acceleration{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} French: Chapter 5. {{< br >}}{{< br >}} Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics)) {{< br >}}{{< br >}}  |
-| 8 | {{< h 3 >}}Variational Calculus{{< /h >}}   {{< br >}}{{< br >}} *   Short Discourse on the Calculus of Variations{{< br >}}    {{< br >}}    *   Extremization of Path Integrals{{< br >}}        {{< br >}}        *   The Euler-Lagrange Equations and Constants of the Motion{{< br >}}        *   Brachistochrone Problem{{< br >}}        {{< br >}}    {{< br >}}    *   Extremal Aging for Inertially Moving Clocks{{< br >}}    {{< br >}}*   Optional Problems in the Use of the Calculus of Variations as Applied to Lagragian Mechanics and Other Problems in the Extremization of Path Integrals {{< br >}}{{< br >}}  | Resnick: Supplementary Topics A and B in pages 188-209. |
-| 9 | {{< h 3 >}}Relativistic Dynamics and Particle Physics{{< /h >}}   {{< br >}}{{< br >}} *   Relativistic Momentum Inferred from Gedanken Experiment with Inelastic Collisions{{< br >}}*   Relativistic Relations between Force and Acceleration{{< br >}}*   Relativistic Version of Work-Energy Theorem{{< br >}}    {{< br >}}    *   Kinetic Energy, Rest Energy, Equivalence of Mass-Energy{{< br >}}    *   E2 - p2 Invariant{{< br >}}    {{< br >}}*   Nuclear Binding Energies{{< br >}}    {{< br >}}    *   Atomic Mass Excesses, Semi-Empirical Binding Energy Equation{{< br >}}    *   Nuclear Reactions{{< br >}}    *   Solar p-p Chain{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Supplementary Topics A and B in pages 188-209. {{< br >}}{{< br >}} Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics)) {{< br >}}{{< br >}} Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles)) {{< br >}}{{< br >}}  |
-| 10 | {{< h 3 >}}Relativistic Dynamics and Particle Physics (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Relativistic Motion in a B Field, Lorentz Force{{< br >}}    {{< br >}}    *   Cyclotrons, Synchrotrons{{< br >}}    {{< br >}}*   Further Gedanken Experiments Relating to Mass-Energy Equivalence, Relativistic Momentum{{< br >}}*   Quantum Nature of Light{{< br >}}    {{< br >}}    *   Photoelectric Effect, Photons{{< br >}}    {{< br >}}*   _beta_\-Decay and the Inference of Neutrino {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Relativistic Dynamics Chapters in Resnick and French. {{< br >}}{{< br >}} Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics)) {{< br >}}{{< br >}} Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles)) {{< br >}}{{< br >}}  |
-| 11 | Quiz 1 | &nbsp; |
-| 12 | {{< h 3 >}}Relativistic Dynamics and Particle Physics (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Absorption and Emission of Light Quanta{{< br >}}    {{< br >}}    *   Atomic and Nuclear Recoil{{< br >}}    *   Mössbauer Effect{{< br >}}    *   Pound-Rebka Experiment{{< br >}}    {{< br >}}*   Collisions{{< br >}}    {{< br >}}    *   Between Photons and Moving Atoms{{< br >}}    *   Elastic{{< br >}}    *   Compton{{< br >}}    *   Inverse Compton{{< br >}}    *   Between Photon and Relativistic Particle{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Relativistic Dynamics Chapters in Resnick and French. {{< br >}}{{< br >}} Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics)) {{< br >}}{{< br >}} Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles)) {{< br >}}{{< br >}}  |
-| 13 | {{< h 3 >}}Relativistic Dynamics and Particle Physics (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Particle Production{{< br >}}    {{< br >}}    *   Threshold Energy{{< br >}}        {{< br >}}        *   Colliding Particle Beams{{< br >}}        *   Two Photons Producing an Electron/Positron Pair{{< br >}}        {{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 3. {{< br >}}{{< br >}} French: Chapters 6 and 7. {{< br >}}{{< br >}} Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics)) {{< br >}}{{< br >}} Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles)) {{< br >}}{{< br >}}  |
-| 14 | {{< h 3 >}}Relativistic Dynamics and Particle Physics (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Formal Transformation of E and P as a Four-Vector{{< br >}}    {{< br >}}    *   Revisit the Relativistic Doppler Effect{{< br >}}    {{< br >}}*   Relativistic Invariant E2 - p2 for a Collection of Particles {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 3. {{< br >}}{{< br >}} French: Chapters 6 and 7. {{< br >}}{{< br >}} Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics)) {{< br >}}{{< br >}} Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles)) {{< br >}}{{< br >}}  |
-| 15 | {{< h 3 >}}Relativity and Electromagnetism{{< /h >}}   {{< br >}}{{< br >}} *   Coulomb's Law{{< br >}}*   Transformation of Coulomb's Law{{< br >}}*   Force on a Moving Test Charge{{< br >}}    {{< br >}}    *   Magnetic Field and Relativity{{< br >}}    *   Derivation of Lorentz Force{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 4. {{< br >}}{{< br >}} French: Chapter 8. {{< br >}}{{< br >}} Note: As stressed in lecture, please don't get bogged down with their excessive E&M algebra. {{< br >}}{{< br >}} Electromagnetism Handout ([PDF]({{< baseurl >}}/resources/electromagnetism)) {{< br >}}{{< br >}}  |
-| 16 | {{< h 3 >}}Relativity and Electromagnetism (cont.){{< /h >}}   {{< br >}}{{< br >}} *   General Transformation Laws for E and B{{< br >}}*   Magnetic Force due to Current-Bearing Wire{{< br >}}*   Force between Current-Bearing Wires {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Resnick: Chapter 4. {{< br >}}{{< br >}} French: Chapter 8. {{< br >}}{{< br >}} Electromagnetism Handout ([PDF]({{< baseurl >}}/resources/electromagnetism)) {{< br >}}{{< br >}}  |
-| 17 | {{< h 3 >}}The Equivalence Principle and General Relativity{{< /h >}}   {{< br >}}{{< br >}} *   Strong and Weak Principles of Equivalence{{< br >}}*   Local Equivalence of Gravity and Acceleration{{< br >}}*   Elevator Thought Experiments{{< br >}}    {{< br >}}    *   Gravitational Redshift{{< br >}}    *   Light Bending{{< br >}}    {{< br >}}*   Relative Acceleration of Test Particles in Falling Elevator of Finite Size{{< br >}}*   Definition of the Metric Tensor{{< br >}}*   Analogy between the Metric Tensor and the Ordinary Potential, and between Einstein's Field Equations and Poisson's Equation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Until pp. 2-18, in addition to Project G. {{< br >}}{{< br >}} Please also read the following: {{< br >}}{{< br >}} Cosmology: Spacetime Overview  {{< br >}}Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433. {{< br >}}{{< br >}} Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm). {{< br >}}{{< br >}}  |
-| 18 | {{< h 3 >}}General Relativity and Cosmology{{< /h >}}   {{< br >}}{{< br >}} *   Cosmological Redshifts and the Hubble Law {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Until page 2-18, also project G. {{< br >}}{{< br >}} Please also read the following: {{< br >}}{{< br >}} Cosmology: Popular Overview  {{< br >}}Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56. {{< br >}}{{< br >}} Cosmology: Spacetime Overview  {{< br >}}Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433. {{< br >}}{{< br >}} Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm). {{< br >}}{{< br >}}  |
-| 19 | {{< h 3 >}}General Relativity and Cosmology (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Cosmology{{< br >}}    {{< br >}}    *   Dynamical Equations for the Scale Factor a - Including Ordinary Matter, Dark Matter, and Dark Energy{{< br >}}    *   Critical Closure Density; Open, Closed, Flat Universes{{< br >}}    *   Solutions for Various combinations of Omegam, OmegaLambda and Omegak{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Until pp. 2-18, also Project G. {{< br >}}{{< br >}} Please also read the following: {{< br >}}{{< br >}} Cosmology: Popular Overview  {{< br >}}Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56. {{< br >}}{{< br >}} Cosmology: Spacetime Overview  {{< br >}}Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433. {{< br >}}{{< br >}} Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm). {{< br >}}{{< br >}}  |
-| 20 | {{< h 3 >}}General Relativity and Cosmology (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Cosmology (cont.){{< br >}}    {{< br >}}    *   Age of the Universe, Brief History{{< br >}}    *   Relation between Scale Factor and Z from the Doppler Shift{{< br >}}    *   Lookback Age as a Function of Z for Various Values of Omegam, OmegaLambda and Omegak{{< br >}}    *   Acceleration Parameter as a Function of Scale Factor{{< br >}}    *   Current S Status of Cosmology, Unsolved Puzzles{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Until pp. 2-18, also Project G. {{< br >}}{{< br >}} Please also read the following: {{< br >}}{{< br >}} Cosmology: Popular Overview  {{< br >}}Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56. {{< br >}}{{< br >}} Cosmology: Spacetime Overview  {{< br >}}Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433. {{< br >}}{{< br >}} Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm). {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} *   21 {{< br >}}{{< br >}}  | Quiz 2 | &nbsp; |
-| 22 | {{< h 3 >}}General Relativity and Cosmology (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Handout Defining Einstein Field Equations, Einstein Tensor, Stress-Energy Tensor, Curvature Scalar, Ricci Tensor, Christoffel Symbols, Riemann Curvature Tensor{{< br >}}*   Symmetry Arguments by Which 6 Schwarzschild Metric Tensor Components Vanish{{< br >}}*   Symmetry Arguments for Why the Non-zero Components are Functions of Radius Only{{< br >}}*   The Differential Equations for G00 and G11{{< br >}}*   Shell Radius vs. Bookkeepers Radial Coordinate {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D. {{< br >}}{{< br >}} Note: You will be responsible only for the corresponding material that was actually covered in the lectures. Project E should also be understandable, but this topic will be mentioned only very briefly in lecture. {{< br >}}{{< br >}} General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr)) {{< br >}}{{< br >}}  |
-| 23 | {{< h 3 >}}General Relativity and Black Holes{{< /h >}}   {{< br >}}{{< br >}} *   Gravitational Redshift{{< br >}}    {{< br >}}    *   Application to the GPS System{{< br >}}    {{< br >}}*   Particle Orbits{{< br >}}    {{< br >}}    *   Use Euler Equations (for External Aging) in Connection with the Schwarzschild Metric to find Constants of the Motion E and L{{< br >}}    *   Derive the Full Expression for the Effective Potential{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D. {{< br >}}{{< br >}} General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr)) {{< br >}}{{< br >}} Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations)) {{< br >}}{{< br >}}  |
-| 24 | {{< h 3 >}}General Relativity and Black Holes (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Derive Analytic Results for Radial Motion{{< br >}}    {{< br >}}    *   Compare Speeds and Energies for Bookkeeper and Shell Observers{{< br >}}    {{< br >}}*   Equations of Motion for a General Orbit{{< br >}}    {{< br >}}    *   Explain How these can be Numerically Integrated{{< br >}}    {{< br >}}*   Expand the Effective Potential in the Weak-Field Limit {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D. {{< br >}}{{< br >}} General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr)) {{< br >}}{{< br >}} Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations)) {{< br >}}{{< br >}}  |
-| 25 | {{< h 3 >}}General Relativity and Black Holes (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Keplers Third Law in the Schwarzschild Metric{{< br >}}*   Relativistic Precession in the Weak-Field Limit{{< br >}}    {{< br >}}    *   Taylor-Hulse Binary Neutron Star System{{< br >}}    {{< br >}}*   Derivation of the Last Stable Circular Orbit at 6M{{< br >}}    {{< br >}}    *   Analytic E and L for Circular Orbits{{< br >}}     {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D. {{< br >}}{{< br >}} General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr)) {{< br >}}{{< br >}} Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations)) {{< br >}}{{< br >}}  |
-| 26 | {{< h 3 >}}General Relativity and Black Holes (cont.){{< /h >}}   {{< br >}}{{< br >}} *   Photon Trajectories{{< br >}}    {{< br >}}    *   Derive Differential Equation for the Trajectories{{< br >}}    *   Critical Impact Parameter{{< br >}}    *   Derive Expression for Light Bending in the Weak-Field Limit{{< br >}}    {{< br >}}*   Shapiro Time Delay {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D. {{< br >}}{{< br >}} General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr)) {{< br >}}{{< br >}} Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Course Overview
+
+  
+
+*   Overview of Course Contents
+*   Practical Issues and Advice
+*   Related Subjects; Brief History of Physics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 1 and beginning of Chapter 2.
+
+French: Chapters 1 and 2.
+
+Course Study Guide Handout ([PDF]({{< baseurl >}}/resources/guide))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Symmetry and Invariance
+
+  
+
+*   Background and History
+*   Galilean Transformation, Inertial Reference Frames
+*   Classical Wave Equations; Transformation to Other Frames
+*   Michelson-Morley Experiment; Aether
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 1 and beginning of Chapter 2.
+
+French: Chapters 1 and 2.
+
+Symmetry Handout ([PDF]({{< baseurl >}}/resources/symmetry))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Symmetry and Invariance (cont.)
+
+  
+
+*   Postulates of Special Relativity
+*   First Discussion of Minkowski Diagrams, World Lines
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 1 and beginning of Chapter 2.
+
+French: Chapters 1 and 2.
+
+Symmetry Handout ([PDF]({{< baseurl >}}/resources/symmetry))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Kinematics
+
+  
+
+*   Derivation of Lorentz-Einstein Transformations
+    
+    *   Matrix Representation
+    
+*   Introduction of Four-Vectors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 2.
+
+French: Chapters 3 and 4.
+
+Matrix Primer Handout ([PDF]({{< baseurl >}}/resources/matrices))
+
+Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Kinematics (cont.)
+
+  
+
+*   Time Dilation and Length Contraction
+    
+    *   Decay of Atmospheric Muons
+    *   Pole Vaulter Problem
+    
+*   Alternative Looks at Time Dilation and Length Contraction
+*   Spacetime Intervals
+*   First Discussion of Accelerated Clocks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 2.
+
+French: Chapters 3 and 4.
+
+Matrix Primer handout ([PDF]({{< baseurl >}}/resources/matrices))
+
+Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Kinematics (cont.)
+
+  
+
+*   Addition of Velocities
+*   Angle Transformation for Trajectories
+    *   Doppler Effect
+        
+        *   Classical Doppler Effect for Sound
+        *   Relativistic Doppler Effect
+        *   Astrophysical Examples; Relativistic and Superluminal Jets
+        
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+French: Chapter 5.
+
+Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Kinematics (cont.)
+
+  
+
+*   Stellar Aberration
+*   Doppler Effect and Angle Transformation via Transformation of Phase of Plane Waves
+*   Fully Calibrated Minkowski Diagrams
+    
+    *   Pole-Vaulter Problem
+    *   Twin Paradox with Constant Velocity Plus a Reversal
+    *   Twin Paradox with Arbitrary Acceleration
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+French: Chapter 5.
+
+Kinematics Handout ([PDF]({{< baseurl >}}/resources/kinematics))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Variational Calculus
+
+  
+
+*   Short Discourse on the Calculus of Variations
+    
+    *   Extremization of Path Integrals
+        
+        *   The Euler-Lagrange Equations and Constants of the Motion
+        *   Brachistochrone Problem
+        
+    
+    *   Extremal Aging for Inertially Moving Clocks
+    
+*   Optional Problems in the Use of the Calculus of Variations as Applied to Lagragian Mechanics and Other Problems in the Extremization of Path Integrals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Resnick: Supplementary Topics A and B in pages 188-209.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Dynamics and Particle Physics
+
+  
+
+*   Relativistic Momentum Inferred from Gedanken Experiment with Inelastic Collisions
+*   Relativistic Relations between Force and Acceleration
+*   Relativistic Version of Work-Energy Theorem
+    
+    *   Kinetic Energy, Rest Energy, Equivalence of Mass-Energy
+    *   E2 - p2 Invariant
+    
+*   Nuclear Binding Energies
+    
+    *   Atomic Mass Excesses, Semi-Empirical Binding Energy Equation
+    *   Nuclear Reactions
+    *   Solar p-p Chain
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Supplementary Topics A and B in pages 188-209.
+
+Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics))
+
+Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Dynamics and Particle Physics (cont.)
+
+  
+
+*   Relativistic Motion in a B Field, Lorentz Force
+    
+    *   Cyclotrons, Synchrotrons
+    
+*   Further Gedanken Experiments Relating to Mass-Energy Equivalence, Relativistic Momentum
+*   Quantum Nature of Light
+    
+    *   Photoelectric Effect, Photons
+    
+*   _beta_\-Decay and the Inference of Neutrino
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Relativistic Dynamics Chapters in Resnick and French.
+
+Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics))
+
+Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Dynamics and Particle Physics (cont.)
+
+  
+
+*   Absorption and Emission of Light Quanta
+    
+    *   Atomic and Nuclear Recoil
+    *   Mössbauer Effect
+    *   Pound-Rebka Experiment
+    
+*   Collisions
+    
+    *   Between Photons and Moving Atoms
+    *   Elastic
+    *   Compton
+    *   Inverse Compton
+    *   Between Photon and Relativistic Particle
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Relativistic Dynamics Chapters in Resnick and French.
+
+Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics))
+
+Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Dynamics and Particle Physics (cont.)
+
+  
+
+*   Particle Production
+    
+    *   Threshold Energy
+        
+        *   Colliding Particle Beams
+        *   Two Photons Producing an Electron/Positron Pair
+        
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 3.
+
+French: Chapters 6 and 7.
+
+Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics))
+
+Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativistic Dynamics and Particle Physics (cont.)
+
+  
+
+*   Formal Transformation of E and P as a Four-Vector
+    
+    *   Revisit the Relativistic Doppler Effect
+    
+*   Relativistic Invariant E2 - p2 for a Collection of Particles
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 3.
+
+French: Chapters 6 and 7.
+
+Relativistic Dynamics Handout ([PDF]({{< baseurl >}}/resources/dynamics))
+
+Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativity and Electromagnetism
+
+  
+
+*   Coulomb's Law
+*   Transformation of Coulomb's Law
+*   Force on a Moving Test Charge
+    
+    *   Magnetic Field and Relativity
+    *   Derivation of Lorentz Force
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 4.
+
+French: Chapter 8.
+
+Note: As stressed in lecture, please don't get bogged down with their excessive E&M algebra.
+
+Electromagnetism Handout ([PDF]({{< baseurl >}}/resources/electromagnetism))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Relativity and Electromagnetism (cont.)
+
+  
+
+*   General Transformation Laws for E and B
+*   Magnetic Force due to Current-Bearing Wire
+*   Force between Current-Bearing Wires
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Resnick: Chapter 4.
+
+French: Chapter 8.
+
+Electromagnetism Handout ([PDF]({{< baseurl >}}/resources/electromagnetism))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### The Equivalence Principle and General Relativity
+
+  
+
+*   Strong and Weak Principles of Equivalence
+*   Local Equivalence of Gravity and Acceleration
+*   Elevator Thought Experiments
+    
+    *   Gravitational Redshift
+    *   Light Bending
+    
+*   Relative Acceleration of Test Particles in Falling Elevator of Finite Size
+*   Definition of the Metric Tensor
+*   Analogy between the Metric Tensor and the Ordinary Potential, and between Einstein's Field Equations and Poisson's Equation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Until pp. 2-18, in addition to Project G.
+
+Please also read the following:
+
+Cosmology: Spacetime Overview  
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
+
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Cosmology
+
+  
+
+*   Cosmological Redshifts and the Hubble Law
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Until page 2-18, also project G.
+
+Please also read the following:
+
+Cosmology: Popular Overview  
+Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56.
+
+Cosmology: Spacetime Overview  
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
+
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Cosmology (cont.)
+
+  
+
+*   Cosmology
+    
+    *   Dynamical Equations for the Scale Factor a - Including Ordinary Matter, Dark Matter, and Dark Energy
+    *   Critical Closure Density; Open, Closed, Flat Universes
+    *   Solutions for Various combinations of Omegam, OmegaLambda and Omegak
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Until pp. 2-18, also Project G.
+
+Please also read the following:
+
+Cosmology: Popular Overview  
+Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56.
+
+Cosmology: Spacetime Overview  
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
+
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Cosmology (cont.)
+
+  
+
+*   Cosmology (cont.)
+    
+    *   Age of the Universe, Brief History
+    *   Relation between Scale Factor and Z from the Doppler Shift
+    *   Lookback Age as a Function of Z for Various Values of Omegam, OmegaLambda and Omegak
+    *   Acceleration Parameter as a Function of Scale Factor
+    *   Current S Status of Cosmology, Unsolved Puzzles
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Until pp. 2-18, also Project G.
+
+Please also read the following:
+
+Cosmology: Popular Overview  
+Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56.
+
+Cosmology: Spacetime Overview  
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
+
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+*   21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Cosmology (cont.)
+
+  
+
+*   Handout Defining Einstein Field Equations, Einstein Tensor, Stress-Energy Tensor, Curvature Scalar, Ricci Tensor, Christoffel Symbols, Riemann Curvature Tensor
+*   Symmetry Arguments by Which 6 Schwarzschild Metric Tensor Components Vanish
+*   Symmetry Arguments for Why the Non-zero Components are Functions of Radius Only
+*   The Differential Equations for G00 and G11
+*   Shell Radius vs. Bookkeepers Radial Coordinate
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D.
+
+Note: You will be responsible only for the corresponding material that was actually covered in the lectures. Project E should also be understandable, but this topic will be mentioned only very briefly in lecture.
+
+General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Black Holes
+
+  
+
+*   Gravitational Redshift
+    
+    *   Application to the GPS System
+    
+*   Particle Orbits
+    
+    *   Use Euler Equations (for External Aging) in Connection with the Schwarzschild Metric to find Constants of the Motion E and L
+    *   Derive the Full Expression for the Effective Potential
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D.
+
+General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr))
+
+Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Black Holes (cont.)
+
+  
+
+*   Derive Analytic Results for Radial Motion
+    
+    *   Compare Speeds and Energies for Bookkeeper and Shell Observers
+    
+*   Equations of Motion for a General Orbit
+    
+    *   Explain How these can be Numerically Integrated
+    
+*   Expand the Effective Potential in the Weak-Field Limit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D.
+
+General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr))
+
+Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Black Holes (cont.)
+
+  
+
+*   Keplers Third Law in the Schwarzschild Metric
+*   Relativistic Precession in the Weak-Field Limit
+    
+    *   Taylor-Hulse Binary Neutron Star System
+    
+*   Derivation of the Last Stable Circular Orbit at 6M
+    
+    *   Analytic E and L for Circular Orbits
+    
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D.
+
+General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr))
+
+Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### General Relativity and Black Holes (cont.)
+
+  
+
+*   Photon Trajectories
+    
+    *   Derive Differential Equation for the Trajectories
+    *   Critical Impact Parameter
+    *   Derive Expression for Light Bending in the Weak-Field Limit
+    
+*   Shapiro Time Delay
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor and Wheeler: Chapters 2, 3, 4, 5, and Project D.
+
+General Relativity Handout ([PDF]({{< baseurl >}}/resources/gr))
+
+Einstein's Field Equations Handout ([PDF]({{< baseurl >}}/resources/equations))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
