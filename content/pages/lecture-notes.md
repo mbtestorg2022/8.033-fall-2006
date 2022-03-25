@@ -61,7 +61,7 @@ LECTURE SLIDES
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture2_symme1))
+([PDF]({{< baseurl >}}/resources/lecture2_symme1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ LECTURE SLIDES
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture6_kinem3))
+([PDF]({{< baseurl >}}/resources/lecture6_kinem3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -422,7 +422,7 @@ Quiz 1
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture15_em2))
+([PDF]({{< baseurl >}}/resources/lecture15_em2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -451,7 +451,7 @@ Quiz 1
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture16_gr))
+([PDF]({{< baseurl >}}/resources/lecture16_gr))
 {{< tdclose >}}
 
 {{< trclose >}}
