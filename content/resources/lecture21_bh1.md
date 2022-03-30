@@ -6,6 +6,7 @@ description: This resource contains lecture slides on gravitational redshift, ap
   and deriving the full expression for the effective potential.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-033-relativity-fall-2006/bc94629f28eae7b92641aecbc4bf8502_lecture21_bh1.pdf
 file_type: application/pdf
+parent_uid: 0760ff51-7ca3-893a-266a-9bdc4dbbe4fa
 resourcetype: Document
 title: lecture21_bh1.pdf
 uid: bc94629f-28ea-e7b9-2641-aecbc4bf8502

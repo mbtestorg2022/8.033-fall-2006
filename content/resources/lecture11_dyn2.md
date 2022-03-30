@@ -6,6 +6,7 @@ description: 'This resource contains lecture slides on absorption and emission o
   and between photon and relativistic particle.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-033-relativity-fall-2006/1c8e65d69358da54b5d370fc8f84462b_lecture11_dyn2.pdf
 file_type: application/pdf
+parent_uid: 0760ff51-7ca3-893a-266a-9bdc4dbbe4fa
 resourcetype: Document
 title: lecture11_dyn2.pdf
 uid: 1c8e65d6-9358-da54-b5d3-70fc8f84462b

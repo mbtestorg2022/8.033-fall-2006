@@ -8,6 +8,7 @@ description: This resource contains lecture slides on relativistic momentum infe
   and solar p-p chain.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-033-relativity-fall-2006/aea37746bb94708863a6e7043ca3dffd_lecture9_lagrang.pdf
 file_type: application/pdf
+parent_uid: 0760ff51-7ca3-893a-266a-9bdc4dbbe4fa
 resourcetype: Document
 title: lecture9_lagrang.pdf
 uid: aea37746-bb94-7088-63a6-e7043ca3dffd

@@ -6,6 +6,7 @@ description: This resource contains lecture slides on Keplers third law in the S
   and L for circular orbits.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-033-relativity-fall-2006/019d0413de788d195eb8f5befbdc49e1_lecture23_bh3.pdf
 file_type: application/pdf
+parent_uid: 0760ff51-7ca3-893a-266a-9bdc4dbbe4fa
 resourcetype: Document
 title: lecture23_bh3.pdf
 uid: 019d0413-de78-8d19-5eb8-f5befbdc49e1
